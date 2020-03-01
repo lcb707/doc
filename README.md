@@ -56,7 +56,7 @@ function printSquare(x) {
 }
 printSquare(5);
 ```
-![callstack](./image/callstack_ex1.PNG)
+![callstack](./img/callstack_ex1.PNG)
 ### 예외 처리 시 스택의 동작
 ```js
 function foo() {
